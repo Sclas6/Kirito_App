@@ -1,0 +1,29 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "kirito.moc3",
+		"Textures": [
+			"kirito.4096/texture_00.png"
+		],
+		"DisplayInfo": "kirito.cdi3.json",
+		"Motions":{
+			"Idle":[
+				{
+					"File":"kirito.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

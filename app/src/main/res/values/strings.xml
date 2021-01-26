@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kirito Application</string>
+    <string name="hello_kirito">Hello Kirito!</string>
+    <string name="button1">	&gt;Hand1&lt;</string>
+    <string name="button2">Hand2</string>
+    <string name="button3">Hand3</string>
+    <string name="button4">Hand4</string>
+    <string name="testbutton">test</string>
+    <string name="kiri">test</string>
+    <string name="heart_image">test</string>
+    <string name="window">test</string>
+    <string name="bar">test</string>
+</resources>
